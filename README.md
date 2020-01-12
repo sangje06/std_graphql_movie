@@ -1,1 +1,0 @@
-# std_graphql_movie
